@@ -6,6 +6,10 @@ This site is responsive and contains a sort of online shop design that I have bu
 
  You can check this site [here](https://essmei-week5-4.superhi.com)
  
+ <br>
+ <br>
+ <br>
+ 
  <img src="images/esm-1.png" width="680">
 <img src="images/esm-2.png" width="680">
 <img src="images/esm-3.png" width="680">
